@@ -1,3 +1,6 @@
+# Desafio da semana #4
+
+```js
 /*
 Declare uma variável chamada `isTruthy`, e atribua a ela uma função que recebe
 um único parâmetro como argumento. Essa função deve retornar `true` se o
@@ -116,3 +119,5 @@ Qual a cor atual do carro?
 
 // Quantas pessoas temos no carro?
 ?
+```
+
