@@ -139,7 +139,7 @@
   */
   console.log( '\nCeará está incluído em `brasil`?' );
   var hasCeara = brasil.some(function(state){
-    return state = 'Ceara';
+    return state == 'Ceara';
   })
   if (hasCeara) {
     console.log('Ceará está incluído!');
