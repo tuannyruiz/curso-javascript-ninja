@@ -33,8 +33,8 @@
   Após o loop, mostre a frase:
   'The person has [COUNTER] properties'
   */
+  var counter = 0;
   for(var prop in person) {
-    var counter = 0;
     console.log('The ' + prop + ' of person is ' + person[prop]);
 
     counter++;
